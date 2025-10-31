@@ -6,7 +6,8 @@ Current BOM
 
 - mgn12h rail 300mm z2 preload,
 - 300mm 1515GB(makerbeam xl) extrusion or 15mm carbon fiber SQUARE tube,
-- a bunch of f623 bearings,
+- 24x f623 bearings,
+- 2x f695 bearings for double sheer,
 - a bunch of m3 washers,
 - a bunch of voron heatset inserts,
 - a bunch of m3 square nuts,
